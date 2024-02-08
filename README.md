@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # DIY Alexa With the ESP32 and Wit.AI
 
@@ -592,3 +593,6 @@ Accuracy is ok. We need more training data to make it really robust, you can eas
 You may want to try changing the wake word for a different one or using your own audio samples to train the neural network.
 
 The [Wit.ai](https://wit.ai) system works very well and you can easily add your own intents and traits to build a very powerful system. I've added additional intents to my own project to tell me jokes and you could easily hook the system up to a weather forecast service if you wanted to.
+=======
+# Alexa
+>>>>>>> 585811c089ebbfeba02181bdff519d1bca9856a4
